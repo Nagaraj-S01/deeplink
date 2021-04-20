@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.swarovski",
+    "sha256_cert_fingerprints":
+    ["4F:3A:7E:6F:EE:9F:9A:42:17:29:25:E7:2C:CB:07:52:54:62:E7:B6:43:07:DC:17:B3:0D:CE:85:A0:98:58:64"]
+  }
+}]
